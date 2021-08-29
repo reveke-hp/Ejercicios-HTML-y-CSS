@@ -1,0 +1,28 @@
+
+.darth{
+    background-color: red;
+    font-size: 20px;
+}
+
+
+.luke{
+    background-color: blue;
+    font-family: "Italica"
+}
+
+.soldados{
+    border: 2px dashed gray;
+    letter-spacing: 4px;
+}
+
+
+.apoyo{
+    letter-spacing: 4px;
+}
+
+.navesEnMayus{
+    text-transform: uppercase;
+
+
+}
+
